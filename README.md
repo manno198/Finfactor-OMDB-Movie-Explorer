@@ -64,6 +64,10 @@ A modern, full-stack movie search application that uses the OMDB API to search a
 ### External APIs
 - **OMDB API** - Movie database API (https://www.omdbapi.com/)
 
+## 🏗️ System Architecture
+
+<!-- Architecture diagram will be added here -->
+
 ## 📋 Prerequisites
 
 Before running this application locally, ensure you have the following installed:

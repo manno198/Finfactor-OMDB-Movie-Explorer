@@ -4,6 +4,8 @@ A modern, full-stack movie search application that uses the OMDB API to search a
 
 <img width="1917" height="989" alt="Screenshot 2025-11-26 043249" src="https://github.com/user-attachments/assets/1f78af13-4879-45dd-9e02-9b24e40c124c" />
 
+<img width="1916" height="980" alt="image" src="https://github.com/user-attachments/assets/a3d8e15a-7902-4467-ad46-662d84f9a6eb" />
+
 ## 📋 Table of Contents
 
 - [Features](#-features)

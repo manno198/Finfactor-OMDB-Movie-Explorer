@@ -155,7 +155,7 @@ CORS_ORIGINS="*"
 OMDB_API_KEY="your_omdb_api_key_here"
 ```
 
-**Important**: Replace `your_omdb_api_key_here` with your actual OMDB API key from [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
+**Important**: Use your own API key and keep it in `backend/.env` file. Get your free API key from [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
 
 ### Step 3: Frontend Setup
 
@@ -191,11 +191,11 @@ REACT_APP_BACKEND_URL=http://localhost:8001
 
 ### Step 4: Get OMDB API Key
 
+**Use your own API key** and keep it in `backend/.env` file.
+
 1. Visit [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
-2. Choose the free tier (1000 requests/day)
-3. Sign up with your email
-4. Verify your email and receive your API key
-5. Add the key to `backend/.env` file: `OMDB_API_KEY="your_key_here"`
+2. Get your free API key
+3. Add the key to `backend/.env` file: `OMDB_API_KEY="your_key_here"`
 
 ### Step 5: Start MongoDB
 

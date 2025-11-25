@@ -2,6 +2,8 @@
 
 A modern, full-stack movie search application that uses the OMDB API to search and explore movies, series, and episodes. Built with FastAPI backend and React frontend, featuring a clean, responsive interface with favorites management and comprehensive movie information.
 
+<img width="1917" height="989" alt="Screenshot 2025-11-26 043249" src="https://github.com/user-attachments/assets/1f78af13-4879-45dd-9e02-9b24e40c124c" />
+
 ## 📋 Table of Contents
 
 - [Features](#-features)

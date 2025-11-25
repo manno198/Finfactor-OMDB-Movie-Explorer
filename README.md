@@ -111,9 +111,11 @@ cd finefactor-project
 
 #### 2.1 Create Virtual Environment
 
+**Note**: Virtual environments are NOT included in the repository. Each developer must create their own.
+
 ```bash
-# Navigate to project root
-cd backend
+# Navigate to project root (not backend folder)
+cd Finfactor-OMDB-Movie-Explorer
 
 # Create virtual environment
 python -m venv venv

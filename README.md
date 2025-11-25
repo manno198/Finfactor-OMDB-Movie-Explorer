@@ -66,7 +66,9 @@ A modern, full-stack movie search application that uses the OMDB API to search a
 
 ## 🏗️ System Architecture
 
-<!-- Architecture diagram will be added here -->
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/09a77728-e82c-4101-827b-8461c2bb706b" />
+
+
 
 ## 📋 Prerequisites
 
@@ -957,25 +959,6 @@ cd backend
 - Lazy loading for images
 - Optimized bundle size with code splitting
 
-### Security Considerations
-
-- API keys stored in environment variables (never in code)
-- CORS configured for development (adjust for production)
-- Input validation on backend endpoints
-- Error messages don't expose sensitive information
-
-### Future Enhancements
-
-- Server-side favorites synchronization
-- User authentication and accounts
-- Advanced filtering and sorting
-- Watchlist functionality
-- Movie recommendations
-- Export favorites to CSV/JSON
-
-## 📄 License
-
-This project is open source and available for educational purposes.
 
 ## 🤝 Contributing
 

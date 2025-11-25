@@ -966,6 +966,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Harshita Singh
+Built with ❤️ by Harshita Singh for Finfactor Technologies Pvt. Ltd. assignment task.
 
 ---
